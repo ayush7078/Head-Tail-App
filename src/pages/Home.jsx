@@ -6,7 +6,7 @@ const { Title } = Typography;
 
 const Home = () => {
   return (
-    <div style={{ padding: 30 }}>
+    <div style={{ padding: 10 }}>
       <Title>Home Page</Title>
       <Space>
         <Link to="/about">
