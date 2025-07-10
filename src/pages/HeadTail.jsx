@@ -31,7 +31,7 @@ const HeadTail = () => {
   };
 
   return (
-    <div style={{ padding: "30px" }}>
+    <div style={{ padding: "10px" }}>
       <Title level={2}>Head & Tail Page</Title>
 
       <Row gutter={16} align="middle" style={{ marginBottom: "20px" }}>

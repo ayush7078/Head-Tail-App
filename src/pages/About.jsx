@@ -5,7 +5,7 @@ const { Title, Paragraph } = Typography;
 
 const About = () => {
   return (
-    <div style={{ padding: 30 }}>
+    <div style={{ padding: 10 }}>
       <Title>About Page</Title>
       <Paragraph>
         This is a simple About page using Ant Design Typography components.
