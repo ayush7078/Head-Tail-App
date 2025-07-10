@@ -10,7 +10,7 @@ const Home = () => {
       <Title>Home Page</Title>
       <Space>
         <Link to="/about">
-          <Button type="primary">About</Button>
+          <Button type="default">About</Button>
         </Link>
         <Link to="/head-tail">
           <Button type="default">Head & Tail</Button>
