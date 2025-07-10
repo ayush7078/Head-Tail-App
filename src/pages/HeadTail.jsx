@@ -27,7 +27,7 @@ const HeadTail = () => {
     }
 
     setColumns(newColumns);
-    setSelectedValue(undefined); // reset dropdown
+    setSelectedValue(undefined ); // reset dropdown
   };
 
   return (
